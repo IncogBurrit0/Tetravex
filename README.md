@@ -4,4 +4,4 @@ A fun little project to prove that I can code in java as well as python (check o
 
 Have fun and do whatever you want with my code!
 
-![alt text](https://github.com/IncogBurrit0/Tetravex/blob/main/Screenshot.png?raw=true)
+<img width="434" height="555" alt="Screenshot" src="https://github.com/user-attachments/assets/c5670618-3c42-4eb0-8f94-012305dd341d" />
